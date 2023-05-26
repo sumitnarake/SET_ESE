@@ -1,1 +1,0 @@
-automate Upload or download a file using selenium Web driver
